@@ -3,8 +3,11 @@
 > app 
 
 ## Build Setup
-
 ``` bash
+# copy
+git clone https://github.com/cwjie0229/SellApp_abuut_vue2.3.3.git
+cd SellApp_abuut_vue2.3.3
+
 # install dependencies
 npm install
 
